@@ -16,35 +16,41 @@ This repository serves as a **centralized hub** for managing coursework, discuss
 
 ---
 
-## Getting Started  
--  Clone the repository to your local machine:  
+# Java Practical Solutions
 
-              git clone https://github.com/YourOrganization/IT3232-E-Commerce-Sessions.git
+## 1) Print a message
+- A simple program to print a message.
 
--  Open the project in IntelliJ IDEA or VS Code (with Java support).
--  Configure your application.properties file (if required).
--  Run the Spring Boot application using:
+## 2) Print numbers from 1 to 10
+- A program to print numbers from 1 to 10 using a loop.
 
-              mvn spring-boot:run
+## 3) Print numbers in reverse
+- A program to print numbers from 10 to 1 using a loop.
 
-  or
+## 4) Print odd numbers between 1 to 20
+- A program to print odd numbers between 1 and 20.
 
-              ./mvnw spring-boot:run
+## 5) Reverse left and right numbers
+- A custom program where the numbers are printed in a reversed order up to the midpoint, followed by the second half of the sequence.
 
-## Assignments & Practicals
-Assignments will be uploaded regularly.
-Stay updated for the latest coursework, instructions, and resources.
+## 6) Student Class
+- A `Student` class is created with fields for name and marks. It calculates the average marks of 5 students.
 
-## System Requirements
-To run the E-Commerce practicals smoothly, ensure you have:
+## 7) Library System using Inheritance and Polymorphism
+- A Library system with classes `PrintedBook`, `EBook`, and `AudioBook` demonstrating inheritance, polymorphism, and encapsulation.
 
-- Java 17+
+## 8) Retail Store Management
+- A retail store system to store, edit, and delete products, demonstrating CRUD operations on products (like fruits, vegetables, etc.).
 
-- Spring Boot – Installed via Maven or Gradle
+---
 
-- MySQL/PostgreSQL – For database connectivity
+### How to Run
+1. Clone the repository to your local machine:  
 
-- Postman – For API testing (optional)
+              https://github.com/IT3232E-Commerce-Session/Day01.git
+2. Use a Java IDE or terminal to run the individual Java files.
+3. Each file represents a separate practical exercise.
+
 
 ## License & Usage
 This repository is strictly for educational purposes as part of the IT3232: E-Commerce course.
